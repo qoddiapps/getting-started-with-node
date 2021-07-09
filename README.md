@@ -4,4 +4,4 @@
 
 This repository can be build on <a href="https://flashdrive.io">FlashDrive.io</a> as an example app.
 
-More informations about NodeJS support on FlashDrive can be <a href="https://devcenter.flashdrive.io/node-js/"found here</a>
+More informations about NodeJS support on FlashDrive can be <a href="https://devcenter.flashdrive.io/node-js/">found here</a>
