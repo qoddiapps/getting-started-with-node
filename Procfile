@@ -1,1 +1,1 @@
-web: npm start --port 8080
+web: npm start
