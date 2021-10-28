@@ -1,6 +1,4 @@
 'use strict';
-// Port config
-var port = 8080;
 
 const express = require('express');
 
