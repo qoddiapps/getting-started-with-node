@@ -1,7 +1,7 @@
 {
-  "name": "flashdrive_node_app",
+  "name": "qoddi_node_app",
   "version": "1.0.0",
-  "description": "Node.js on FlashDrive",
+  "description": "Node.js on Qoddi",
   "author": "First Last <first.last@example.com>",
   "main": "server.js",
   "scripts": {
