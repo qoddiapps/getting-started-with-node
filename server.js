@@ -8,7 +8,7 @@ const HOST = process.env.HOST
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Hello World - NodeJS is running on FlashDrive!');
+  res.send('Hello World - NodeJS is running on Qoddi!');
 });
 
 app.listen(PORT, HOST);
