@@ -9,7 +9,8 @@
     "start": "node server.js"
   },
   "engines": {
-  "node": "^18"
+  "node": "^18",
+    "npm": "10.x"
 },
   "dependencies": {
     "express": "^4.16.1"
