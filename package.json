@@ -5,6 +5,7 @@
   "author": "First Last <first.last@example.com>",
   "main": "server.js",
   "scripts": {
+    "build": "npm install"
     "start": "node server.js"
   },
   "engines": {
